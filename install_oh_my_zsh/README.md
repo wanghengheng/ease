@@ -9,7 +9,7 @@
 ## 一键安装
 
 ```bash
-wget https://github.com/wanghengheng/ease/raw/master/install_oh_my_zsh/install_oh_my_zsh.sh -O - | sh
+wget https://github.com/wanghengheng/ease/raw/master/install_oh_my_zsh/install_oh_my_zsh.sh -O - | zsh
 ```
 
 ## 包含什么
